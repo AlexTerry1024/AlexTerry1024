@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Full Stack Engineer with more than 10 years of web development experience in building high-performance presentations, reusable components, and performance optimization with React, Vue, and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using React, and Vue. Mainly focus on Front End Development but also available for Back End Development with Node and Django. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack.
+Full Stack Engineer with more than 10 years of web development experience in building high-performance presentations, reusable components, and performance optimization with React, Angular.js, Vue, and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using React, Angular.js and Vue. Mainly focus on Front End Development but also available for Back End Development with Node, Django and ASP.NET. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack, Skype, Whatsapp, Telegram...
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 - Java/Kotlin, Objective-C/Swift, React Native, Ionic, Flutter
