@@ -1,6 +1,6 @@
 ### Hi there, I'm [ZhengXian!](https://www.linkedin.com/in/li-zheng-xian/) 👋
 
-<a href="https://www.linkedin.com/in/li-zheng-xian">
+<a href="https://www.linkedin.com/in/li-zheng-xian-tms">
   <img align="left" alt="LiZhengXian | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevHabit/DevHabit/master/assets/linkedin.svg" />
 </a>
 
